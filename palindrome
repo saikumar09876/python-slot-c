@@ -1,0 +1,8 @@
+def isPalindrome(s):
+          return s == s[::-1]
+s = "mami"
+ans = isPalindrome(s)
+if ans:
+       print("string equal")
+else:
+     print("no equal")
