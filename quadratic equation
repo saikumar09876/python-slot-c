@@ -1,0 +1,12 @@
+n1=float(input("enter the first number"))
+n2=float(input("enter the second number"))
+
+sum=n1+n2
+sub=n1-n2
+multi=n1*n2
+div=n1/n2
+
+print("sum values:",sum)
+print("sub values:",sub)
+print("multi values:",multi)
+print("div values:",div)
